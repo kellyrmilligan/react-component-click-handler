@@ -1,6 +1,6 @@
 {
   "name": "react-component-click-handler",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "pass through component for when you need just a click handler to pass back some data",
   "main": "index.js",
   "author": "Kelly Milligan",
