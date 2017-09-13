@@ -6,7 +6,7 @@ react-component-click-handler
 
 sometimes all you need when you have a list of data that you're rendering in react is a click handler to forward that data to a method. I ended up not liking creating components that were separate just for this one case. with this you can wrap the jsx in the list rendering to have a click handler, specify the data, and it will give you a click handler that will forward the data for you.
 
-
+g
 ## Usage
 ```js
 // @flow
