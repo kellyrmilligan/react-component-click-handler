@@ -19,7 +19,7 @@ const List = ({ items, onClick }) => (
       <ClickHandler key={item.id} data={item} onClick={onClick}>
         {(handleClick) => (
           <li onClick={handleClick}>
-              {question.text}
+              {item.text}
           </li>
         )}
       </ClickHandler>
