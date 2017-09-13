@@ -1,7 +1,7 @@
 react-component-click-handler
 =====================
 
-[![Coverage Status](https://coveralls.io/repos/github/kellyrmilligan/cache-client-promise/badge.svg?branch=master)](https://coveralls.io/github/kellyrmilligan/cache-client-promise?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/kellyrmilligan/react-component-click-handler/badge.svg?branch=master)](https://coveralls.io/github/kellyrmilligan/rreact-component-click-handler?branch=master)
 
 
 sometimes all you need when you have a list of data that you're rendering in react is a click handler to forward that data to a method. I ended up not liking creating components that were separate just for this one case. with this you can wrap the jsx in the list rendering to have a click handler, specify the data, and it will give you a click handler that will forward the data for you.
